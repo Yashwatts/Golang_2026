@@ -6,7 +6,7 @@ To start developing in Go, you need two main software components: the Go Compile
    
    While you can use any text editor, the tutorial recommends Visual Studio Code (VS Code) because it is free, lightweight and has excellent community support for Go.
 
-   - **Download:** Visit the official VS Code website (https://code.visualstudio.com) and download the installer for your operating system (Windows, macOS, or Linux).
+   - **Download:** Visit the official [VS Code website](https://code.visualstudio.com) and download the installer for your operating system (Windows, macOS, or Linux).
 
    - **Go Extension:** After installing VS Code, you must install the official Go extension (developed by the Google Go team).
      - Open the Extensions tab (square icon on the left sidebar).
@@ -18,7 +18,7 @@ To start developing in Go, you need two main software components: the Go Compile
    The compiler is what translates your human-readable code into machine code that the computer can run.
 
    **Installation:**
-   1. Go to go.dev/dl to download the package for your OS.
+   1. Go to [go.dev/dl](https://go.dev/dl) to download the package for your OS.
    2. Run the installer and follow the default prompts.
 
    **Verification:**
